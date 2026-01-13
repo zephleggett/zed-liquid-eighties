@@ -4,7 +4,7 @@
    / /   (_)___ ___  __(_)___/ /  / __/ (_)___ _/ /_  / /_(_)__  _____
   / /   / / __ `/ / / / / __  /  / /_  / / __ `/ __ \/ __/ / _ \/ ___/
  / /___/ / /_/ / /_/ / / /_/ /  / __/ / / /_/ / / / / /_/ /  __(__  )
-/_____/_/\__, /\__,_/_/\__,_/  /_/   /_/\__, /_/ /_/\__/_/\___/____/
+/_____/_/\__, /\__,_/_/\__,_/  /____//_/\__, /_/ /_/\__/_/\___/____/
            /_/                         /____/
 
                     A Zed Editor Color Theme
@@ -22,22 +22,6 @@
                     License: MIT
                     Last Updated: 2026-01-12
 
-
---------------------------------------------------------------------------------
-                            TABLE OF CONTENTS
---------------------------------------------------------------------------------
-
-    1. DESCRIPTION
-    2. SYSTEM REQUIREMENTS
-    3. INSTALLATION
-    4. COLOR PALETTE
-    5. SCREENSHOTS
-    6. KNOWN ISSUES
-    7. CHANGELOG
-    8. CREDITS
-    9. CONTACT
-
-
 --------------------------------------------------------------------------------
 1. DESCRIPTION
 --------------------------------------------------------------------------------
@@ -54,29 +38,14 @@ Liquid Eighties is a dark color theme for the Zed text editor featuring:
 This theme was engineered for developers who appreciate the warm color
 temperature of vintage CRT displays combined with modern translucency effects.
 
-
 --------------------------------------------------------------------------------
-2. SYSTEM REQUIREMENTS
+2. SCREENSHOTS
 --------------------------------------------------------------------------------
 
-    MINIMUM:
-    --------
-    - Zed Editor ................... v0.150.0 or higher
-    - Operating System ............. macOS 15.0+ (Tahoe) recommended
-                                     Linux/Windows supported (no blur)
-    - Display ...................... 1024x768 minimum
-                                     1920x1080+ recommended
-    - Color Depth .................. 24-bit True Color
+![Liquid Eighties Theme Screenshot](screenshot.jpg)
 
-    RECOMMENDED:
-    ------------
-    - macOS Tahoe with Liquid Glass enabled
-    - Monitor with accurate color reproduction
-    - Dark system appearance for best results
-
-    NOTE: Blur/transparency effects require macOS with compositor support.
-          On other platforms, backgrounds will render as solid colors.
-
+    Additional screenshots available at:
+    https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
 
 --------------------------------------------------------------------------------
 3. INSTALLATION
@@ -109,18 +78,6 @@ temperature of vintage CRT displays combined with modern translucency effects.
        "theme selector: toggle"
 
     5. Choose "Liquid Eighties" from the list
-
-
-    METHOD C - Settings.json
-    ------------------------
-
-    Add the following to your ~/.config/zed/settings.json:
-
-        {
-          "theme": "Liquid Eighties"
-        }
-
-
 --------------------------------------------------------------------------------
 4. COLOR PALETTE
 --------------------------------------------------------------------------------
@@ -155,19 +112,8 @@ temperature of vintage CRT displays combined with modern translucency effects.
     Selection                #6699cc40
     Accent                   #6699cc
 
-
 --------------------------------------------------------------------------------
-5. SCREENSHOTS
---------------------------------------------------------------------------------
-
-![Liquid Eighties Theme Screenshot](screenshot.jpg)
-
-    Additional screenshots available at:
-    https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
-
-
---------------------------------------------------------------------------------
-6. KNOWN ISSUES
+5. KNOWN ISSUES
 --------------------------------------------------------------------------------
 
     * Blur effects only work on macOS with compositor enabled
@@ -178,47 +124,12 @@ temperature of vintage CRT displays combined with modern translucency effects.
     https://github.com/zephleggett/liquid-eighties/issues
 
 
---------------------------------------------------------------------------------
-7. CHANGELOG
---------------------------------------------------------------------------------
-
-    v1.0.0 (2026-01-12)
-    -------------------
-    - Initial public release
-    - Full Base16 Eighties syntax palette
-    - macOS Tahoe Liquid Glass UI styling
-    - Warm color temperature adjustments
-    - Safari-style tab chrome
-    - Complete terminal color definitions
-
 
 --------------------------------------------------------------------------------
-8. CREDITS
+6. CREDITS
 --------------------------------------------------------------------------------
-
-    Theme Design:       Zeph Leggett
     Base16 Eighties:    Chris Kempson (original palette)
     Liquid Glass:       Apple Inc. (design language)
 
     Special thanks to the Zed team for making an excellent editor.
 
-
---------------------------------------------------------------------------------
-9. CONTACT
---------------------------------------------------------------------------------
-
-    Author:     Zeph Leggett
-    GitHub:     https://github.com/zephleggett
-    Theme URL:  https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
-
-
-================================================================================
-    This theme is provided "AS IS" without warranty of any kind, express or
-    implied. Use at your own risk. The author is not responsible for any
-    eye strain, mass, or productivity loss resulting from extended use of
-    this color scheme.
-
-    Copyright (c) 2026 Zeph Leggett - MIT License
-================================================================================
-
-                            EOF - README.md
