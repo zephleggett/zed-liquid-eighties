@@ -160,7 +160,9 @@ temperature of vintage CRT displays combined with modern translucency effects.
 5. SCREENSHOTS
 --------------------------------------------------------------------------------
 
-    Screenshots available at:
+![Liquid Eighties Theme Screenshot](screenshot.jpg)
+
+    Additional screenshots available at:
     https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
 
 
