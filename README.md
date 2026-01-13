@@ -12,6 +12,8 @@
 ================================================================================
 ```
 
+![Liquid Eighties Theme Screenshot](screenshot.jpg)
+
 A warm, translucent dark theme combining macOS Tahoe's Liquid Glass aesthetic with the classic Base16 Eighties palette.
 
 **Author:** Zeph Leggett
@@ -34,11 +36,34 @@ This theme was engineered for developers who appreciate the warm color temperatu
 
 ---
 
-## Screenshot
+## Color Palette
 
-![Liquid Eighties Theme Screenshot](screenshot.jpg)
+### Syntax Colors (Base16 Eighties)
 
-See more at [zed-themes.com](https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns)
+| | Element | Hex |
+|---|---|---|
+| ![](https://img.shields.io/badge/-%20%20%20%20-1f1e1c) | Background | `#1f1e1c` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-d3d0c8) | Foreground | `#d3d0c8` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-747369) | Comments | `#747369` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-f2777a) | Red (tags/vars) | `#f2777a` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-f99157) | Orange (constants) | `#f99157` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-ffcc66) | Yellow (types) | `#ffcc66` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-99cc99) | Green (strings) | `#99cc99` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-66cccc) | Cyan | `#66cccc` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-6699cc) | Blue (functions) | `#6699cc` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-cc99cc) | Magenta (keywords) | `#cc99cc` |
+
+### UI Colors
+
+| | Element | Hex |
+|---|---|---|
+| ![](https://img.shields.io/badge/-%20%20%20%20-1d1c1a) | Title Bar | `#1d1c1a` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-4a4946) | Active Tab | `#4a4946` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-2d2c29) | Inactive Tab | `#2d2c29` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-1f1e1c) | Editor Background | `#1f1e1c` |
+| | Panel Background | transparent |
+| ![](https://img.shields.io/badge/-%20%20%20%20-6699cc) | Selection | `#6699cc40` |
+| ![](https://img.shields.io/badge/-%20%20%20%20-6699cc) | Accent | `#6699cc` |
 
 ---
 
@@ -69,37 +94,6 @@ See more at [zed-themes.com](https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
 4. Open Command Palette (`Cmd+Shift+P`) and select "theme selector: toggle"
 
 5. Choose "Liquid Eighties" from the list
-
----
-
-## Color Palette
-
-### Syntax Colors (Base16 Eighties)
-
-| Color | Element | Hex |
-|:---:|---|---|
-| ![#1f1e1c](https://via.placeholder.com/24/1f1e1c/1f1e1c.png) | Background | `#1f1e1c` |
-| ![#d3d0c8](https://via.placeholder.com/24/d3d0c8/d3d0c8.png) | Foreground | `#d3d0c8` |
-| ![#747369](https://via.placeholder.com/24/747369/747369.png) | Comments | `#747369` |
-| ![#f2777a](https://via.placeholder.com/24/f2777a/f2777a.png) | Red (tags/vars) | `#f2777a` |
-| ![#f99157](https://via.placeholder.com/24/f99157/f99157.png) | Orange (constants) | `#f99157` |
-| ![#ffcc66](https://via.placeholder.com/24/ffcc66/ffcc66.png) | Yellow (types) | `#ffcc66` |
-| ![#99cc99](https://via.placeholder.com/24/99cc99/99cc99.png) | Green (strings) | `#99cc99` |
-| ![#66cccc](https://via.placeholder.com/24/66cccc/66cccc.png) | Cyan | `#66cccc` |
-| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Blue (functions) | `#6699cc` |
-| ![#cc99cc](https://via.placeholder.com/24/cc99cc/cc99cc.png) | Magenta (keywords) | `#cc99cc` |
-
-### UI Colors
-
-| Color | Element | Hex |
-|:---:|---|---|
-| ![#1d1c1a](https://via.placeholder.com/24/1d1c1a/1d1c1a.png) | Title Bar | `#1d1c1a` |
-| ![#4a4946](https://via.placeholder.com/24/4a4946/4a4946.png) | Active Tab | `#4a4946` |
-| ![#2d2c29](https://via.placeholder.com/24/2d2c29/2d2c29.png) | Inactive Tab | `#2d2c29` |
-| ![#1f1e1c](https://via.placeholder.com/24/1f1e1c/1f1e1c.png) | Editor Background | `#1f1e1c` |
-| | Panel Background | transparent |
-| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Selection | `#6699cc40` |
-| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Accent | `#6699cc` |
 
 ---
 
