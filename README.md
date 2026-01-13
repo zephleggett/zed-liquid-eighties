@@ -76,30 +76,30 @@ See more at [zed-themes.com](https://zed-themes.com/themes/IgdISgFhi-laoQsOHG_Ns
 
 ### Syntax Colors (Base16 Eighties)
 
-| Element           | Hex       | Description      |
-|-------------------|-----------|------------------|
-| Background        | `#1f1e1c` | dark warm gray   |
-| Foreground        | `#d3d0c8` | warm cream       |
-| Comments          | `#747369` | warm gray        |
-| Red (tags/vars)   | `#f2777a` | coral red        |
-| Orange (constants)| `#f99157` | warm orange      |
-| Yellow (types)    | `#ffcc66` | golden yellow    |
-| Green (strings)   | `#99cc99` | soft green       |
-| Cyan              | `#66cccc` | teal             |
-| Blue (functions)  | `#6699cc` | steel blue       |
-| Magenta (keywords)| `#cc99cc` | lavender         |
+| Color | Element | Hex |
+|:---:|---|---|
+| ![#1f1e1c](https://via.placeholder.com/24/1f1e1c/1f1e1c.png) | Background | `#1f1e1c` |
+| ![#d3d0c8](https://via.placeholder.com/24/d3d0c8/d3d0c8.png) | Foreground | `#d3d0c8` |
+| ![#747369](https://via.placeholder.com/24/747369/747369.png) | Comments | `#747369` |
+| ![#f2777a](https://via.placeholder.com/24/f2777a/f2777a.png) | Red (tags/vars) | `#f2777a` |
+| ![#f99157](https://via.placeholder.com/24/f99157/f99157.png) | Orange (constants) | `#f99157` |
+| ![#ffcc66](https://via.placeholder.com/24/ffcc66/ffcc66.png) | Yellow (types) | `#ffcc66` |
+| ![#99cc99](https://via.placeholder.com/24/99cc99/99cc99.png) | Green (strings) | `#99cc99` |
+| ![#66cccc](https://via.placeholder.com/24/66cccc/66cccc.png) | Cyan | `#66cccc` |
+| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Blue (functions) | `#6699cc` |
+| ![#cc99cc](https://via.placeholder.com/24/cc99cc/cc99cc.png) | Magenta (keywords) | `#cc99cc` |
 
 ### UI Colors
 
-| Element           | Hex         |
-|-------------------|-------------|
-| Title Bar         | `#1d1c1a`   |
-| Active Tab        | `#4a4946`   |
-| Inactive Tab      | `#2d2c29`   |
-| Editor Background | `#1f1e1c`   |
-| Panel Background  | transparent |
-| Selection         | `#6699cc40` |
-| Accent            | `#6699cc`   |
+| Color | Element | Hex |
+|:---:|---|---|
+| ![#1d1c1a](https://via.placeholder.com/24/1d1c1a/1d1c1a.png) | Title Bar | `#1d1c1a` |
+| ![#4a4946](https://via.placeholder.com/24/4a4946/4a4946.png) | Active Tab | `#4a4946` |
+| ![#2d2c29](https://via.placeholder.com/24/2d2c29/2d2c29.png) | Inactive Tab | `#2d2c29` |
+| ![#1f1e1c](https://via.placeholder.com/24/1f1e1c/1f1e1c.png) | Editor Background | `#1f1e1c` |
+| | Panel Background | transparent |
+| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Selection | `#6699cc40` |
+| ![#6699cc](https://via.placeholder.com/24/6699cc/6699cc.png) | Accent | `#6699cc` |
 
 ---
 
